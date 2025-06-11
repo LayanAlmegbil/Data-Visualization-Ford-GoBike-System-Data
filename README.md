@@ -10,7 +10,7 @@ The final notebook is structured into data wrangling, univariate, bivariate, and
 
 ## Dataset Information
 
-- **Source**: [Udacity Nanodegree Dataset]
+- **Source**: [Ford GoBike System Data on Kaggle](https://www.kaggle.com/datasets/ahmedmohameddawoud/ford-gobike-system-data)
 - **Rows**: ~29,000 entries (cleaned)
 - **Columns**: 16 features including timestamps, user demographics, and station metadata.
 - **Main feature of interest**: `trip duration`
