@@ -1,4 +1,7 @@
 # 🚲 Ford GoBike System Data Analysis
+![Platform](https://img.shields.io/badge/Platform-Jupyter%20Notebook-blue)
+![Category](https://img.shields.io/badge/Category-Data%20Analysis-green)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ## Project Overview
 
